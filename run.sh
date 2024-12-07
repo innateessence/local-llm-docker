@@ -11,11 +11,14 @@ function await_running(){
   while [ $max_tries -gt 0 ]; do
     if is_running; then
       echo "open-webui is ready"
-      break
+      return 0
     fi
     sleep 1
     try=$((try+1))
   done
+
+  echo "open-webui failed to start"
+  exit 1
 }
 
 function Main(){
