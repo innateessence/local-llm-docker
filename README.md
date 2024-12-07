@@ -1,6 +1,6 @@
 # local-llm-docker
 
-* Read and run `setup.sh`
+* Read and run `run.sh`
 
 ## Why not just use ChatGPT?
 * This took maybe an hour to switch over and gives better peace of mind for privacy and data concerns.
