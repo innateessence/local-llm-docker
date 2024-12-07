@@ -1,6 +1,6 @@
 #!/bin/bash
 
-docker compose up -d
+docker compose up -d --force-recreate
 docker compose exec -it ollama pull llama3.2
 
 echo "open-webui may take a few minutes to get ready...."
