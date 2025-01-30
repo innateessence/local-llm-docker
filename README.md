@@ -4,7 +4,7 @@
 
 ## Why not just use ChatGPT?
 * This took maybe an hour to switch over and gives better peace of mind for privacy and data concerns.
-* I've seen some stuff at some companies. OpenAI became a for-profit company.
+* I've seen some stuff from some companies. OpenAI became a for-profit company.
 * I read something like: The entire privacy / security department became overwhelmingly deprioritized and their concerns largely went ignored.
 * Many employees quit working at OpenAI shortly after they started making a lot of money and the whole world was using their systems.
 
